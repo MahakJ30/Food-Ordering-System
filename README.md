@@ -1,1 +1,1 @@
-# Food-Ordering-System
+This project focuses on designing and implementing a user-friendly and responsive front-end interface. It utilizes HTML, CSS, and Bootstrap to enhance usability and accessibility. The goal is to ensure a seamless experience across devices, adapting to different screen sizes and resolutions.
